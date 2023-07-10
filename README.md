@@ -7,7 +7,7 @@ The purpose of this application is to enhance the efficiency of incident respons
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
 
-    $ git clone https://github.com/emrekybs/inctlnx
+    $ git clone https://github.com/emrekybs/inctlnx.git
     $ sudo pip3 install paramiko
     $ sudo pip3 install colorama
     
