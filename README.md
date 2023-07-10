@@ -6,7 +6,7 @@ The purpose of this application is to enhance the efficiency of incident respons
 <img src="https://github.com/emrekybs/inctlnx/blob/main/Cyber-Security-1.gif">
 
 # Commands
-
+<img src="https://github.com/emrekybs/inctlnx/blob/main/commands.png">
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
 
