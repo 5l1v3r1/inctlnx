@@ -3,7 +3,7 @@
 Linux Incident Response Tool
 The purpose of this application is to enhance the efficiency of incident response procedures by gathering information from Linux operating systems.
 
-<img src="https://github.com/emrekybs/Pikachu-SMTP/blob/main/icegif-5810.gif">
+<https://github.com/emrekybs/inctlnx/blob/main/Cyber-Security-1.gif">
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
 
@@ -12,5 +12,3 @@ The purpose of this application is to enhance the efficiency of incident respons
     $ sudo pip3 install colorama
     
     $ ./pikachu <target-ip> <wordlist>
-
-<img src="https://github.com/emrekybs/Pikachu-SMTP/blob/main/1.png">
