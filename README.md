@@ -14,6 +14,6 @@ The purpose of this application is to enhance the efficiency of incident respons
     $ sudo pip3 install paramiko
     $ sudo pip3 install colorama
     
-    $ python3 inctlnx
+    $ python3 inctlnx.py
 <img src="https://github.com/emrekybs/inctlnx/blob/main/inc.png">
 <img src="https://github.com/emrekybs/inctlnx/blob/main/report.png">
