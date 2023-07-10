@@ -12,3 +12,5 @@ The purpose of this application is to enhance the efficiency of incident respons
     $ sudo pip3 install colorama
     
     $ python3 inctlnx
+<img src="https://github.com/emrekybs/inctlnx/blob/main/inc.png">
+<img src="https://github.com/emrekybs/inctlnx/blob/main/report.png">
